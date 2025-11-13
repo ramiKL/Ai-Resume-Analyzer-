@@ -1,0 +1,10 @@
+streamlit
+spacy>=3.7
+nltk
+PyMuPDF
+pdfminer.six
+yt_dlp
+plotly
+pandas
+Pillow
+sqlite-utils
